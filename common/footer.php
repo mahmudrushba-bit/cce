@@ -1,3 +1,3 @@
 <footer>
-    <p>&copy; 2026 Alex Morgan. Built with HTML & CSS.</p>
+    <p>&copy; 2026 mifta. Built with HTML & CSS.</p>
   </footer>
